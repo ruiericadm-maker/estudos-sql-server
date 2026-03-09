@@ -2,7 +2,7 @@
 Repositório de práticas de SQL do curso de ADS - Procedures e Modelagem.
 # 📊 Sistema de Gestão de Contratos - SQL Server
 
-Este repositório contém scripts de banco de dados desenvolvidos durante o meu curso de **Análise e Desenvolvimento de Sistemas (ADS)**. O foco aqui é demonstrar a automação de processos de negócio utilizando **T-SQL**.
+Este repositório contém scripts de banco de dados desenvolvidos durante o curso **SQL Impressionador** da **Hashtag Treinamentos**. O foco aqui é demonstrar a aplicação prática de conceitos de banco de dados em cenários reais de negócios.
 
 ## 🚀 O que este projeto faz?
 
